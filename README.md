@@ -1,14 +1,14 @@
 # Timer
 
-This repository contains a simple and elegant Timer web app built using Html, CSS and JavaScript. The app allows users to start, lap, stop and reset time, all while enjoying a beautiful user interface design.
+This repository contains a simple and elegant Timer web app built using HTML, CSS, and JavaScript. The app allows users to start, lap, stop, and reset time, all while enjoying a beautiful user interface design.
 
 ## Features
 
-- Add new timer with a user-friendly interface.
+- Add a new timer with a user-friendly interface.
 - Stop timer if required.
 - Delete completed time or those no longer needed.
 - Lap can be also used in it.
-- We can reset all the already running timer for new start.
+- We can reset all the already running timers for a new start.
 
 ## Live Demo
 
