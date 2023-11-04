@@ -16,7 +16,7 @@ You can check out the live demo of the Todo List web app [here](https://mayankmp
 
 ## Screenshots
 
-![image](preview.jpg)
+![image](preciew.jpg)
 
 
 ## Technologies Used
